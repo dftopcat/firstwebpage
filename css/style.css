@@ -1,0 +1,23 @@
+body{
+    font-family: arial;
+    background-color: #FFFFFF;
+    color:#800000;
+    text-align: center;
+    padding-top: 1em;
+    padding-bottom: 1em;
+    padding-left: 10em;
+    padding-right: 10em;
+}
+
+#topbox{
+    background-color: rgb(176, 214, 219);
+    color: blue;
+    text-align: center;
+    font-size: 22px;
+    width: 900px;
+    height: 90px;
+    padding: 5px;
+    margin: 5px;
+    margin-left: 0px;
+    float: top left;
+}
